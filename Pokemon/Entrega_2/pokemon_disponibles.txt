@@ -1,0 +1,6 @@
+Charmander,FUEGO,55,18,10
+Squirtle,AGUA,60,16,12
+Bulbasaur,PLANTA,58,17,11
+Pikachu,ELECTRICO,50,19,9
+Geodude,ROCA,65,17,14
+Poliwag,AGUA,57,16,10

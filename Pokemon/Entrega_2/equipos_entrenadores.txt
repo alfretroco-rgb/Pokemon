@@ -1,0 +1,2 @@
+Jugador:Charmander,Squirtle,Bulbasaur
+CPU:Pikachu,Geodude,Poliwag
